@@ -6,20 +6,18 @@ It is an online quiz platform that allows teachers to create quizzes and let stu
 ### Introduction 
 we develop a quiz application using Python Django. Let’s see what all functionalities we developing in this project (for two roles – Teacher and Student).
 
-####Student:
+  #### Student
+  * Sign up (register)
+  * Login
+  * Quiz page (with timer)
+  * Result page (with score, time taken, percentage score, total questions, correct answers, wrong answers)
 
-*Sign up (register)
-*Login
-*Quiz page (with timer)
-*Result page (with score, time taken, percentage score, total questions, correct answers, wrong answers)
-
-####Teacher:
-
-*Login
-*Sign up
-*Add Question
-*Quiz Page
-*Result Page
+  #### Teacher
+  * Login
+  * Sign up
+  * Add Question
+  * Quiz Page
+  * Result Page
 
   #### Teacher
   1 Create an account as a teacher
