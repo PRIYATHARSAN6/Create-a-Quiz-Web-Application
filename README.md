@@ -73,4 +73,16 @@ we develop a quiz application using Python Django. Let’s see what all function
  ```
  python manage.py runserver
  ```
+*** Attributes of QuesModels:
+
+question: This stores the question, we have also defined maximum length of the question i.e. 200
+op1: As the quiz contains Multiple choice questions. This stores option 1 value.
+op2: option2
+op3: option3
+op4: option4
+ans: This indicates which among the four options is the correct ans.
+The __str__() method returns a string representation of any object of QuesModel.
+
+In Django when we use Sqlite3 database, we don’t have to write table definitions we just have to write models and after that, we have to run.
+
  * Now you can view the project using the below URL
