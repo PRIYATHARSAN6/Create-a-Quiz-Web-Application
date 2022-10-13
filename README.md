@@ -99,9 +99,5 @@ http://127.0.0.1:8000/
 
 ***
 
-#### Teacher Dashboard
-![landing](/Quiz screenshots/quiz-Teacher.png "Landing Page")
-#### Student Dashboard
-![landing](/Quiz screenshots/quiz-Student.png "Landing Page")
-#### View Grades
-![landing](/Quiz screenshots/quiz-Result page.png "Landing Page")  
+### Summary
+We have developed an Online Quiz application Project using Python Django. We developed quiz web application with following functionalities: Login, Sign up, Add Question, Quiz Page, Result Page.  
