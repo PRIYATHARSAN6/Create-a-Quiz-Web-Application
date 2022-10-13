@@ -26,6 +26,7 @@ we develop a quiz application using Python Django. Let’s see what all function
   4 Create new quizes and add questions ,
   5 Review created quizes ,
   6 Delete quizes .
+  
   #### Student
   1 Create an account as a student ,
   2 After login can view a dashboard with all the available quizes ,
@@ -73,7 +74,7 @@ we develop a quiz application using Python Django. Let’s see what all function
  ```
  python manage.py runserver
  ```
-*** Attributes of QuesModels:
+### Attributes of QuesModels:
 
 question: This stores the question, we have also defined maximum length of the question i.e. 200
 op1: As the quiz contains Multiple choice questions. This stores option 1 value.
@@ -86,3 +87,5 @@ The __str__() method returns a string representation of any object of QuesModel.
 In Django when we use Sqlite3 database, we don’t have to write table definitions we just have to write models and after that, we have to run.
 
  * Now you can view the project using the below URL
+   http://127.0.0.1:8000/
+   
