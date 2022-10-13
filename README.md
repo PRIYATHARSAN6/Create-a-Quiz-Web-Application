@@ -20,17 +20,24 @@ we develop a quiz application using Python Django. Let’s see what all function
   * Result Page
 
   #### Teacher
-  1 Create an account as a teacher
-  2 After login can view a dashboard with all the available quizes
-  3 Add new questions to the existing quize
-  4 Create new quizes and add questions
-  5 Review created quizes
-  6 Delete quizes
+  1 Create an account as a teacher ,
+  2 After login can view a dashboard with all the available quizes ,
+  3 Add new questions to the existing quize ,
+  4 Create new quizes and add questions ,
+  5 Review created quizes ,
+  6 Delete quizes .
   #### Student
-  1 Create an account as a student
-  2 After login can view a dashboard with all the available quizes
-  3 Attempt any quiz
-  4 View grades of all the attempted quizes
+  1 Create an account as a student ,
+  2 After login can view a dashboard with all the available quizes ,
+  3 Attempt any quiz ,
+  4 View grades of all the attempted quizes . 
+  
+### Project Prerequisites Are
+  * HTML: to display content on web page
+  * CSS: to style HTML document
+  * Python: Programming language
+  * Django: Python framework
+  
  *** 
 ### How to Run the Project 
   * Install Python 
