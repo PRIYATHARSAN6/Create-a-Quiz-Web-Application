@@ -1,21 +1,38 @@
 # Create-a-Quiz-Web-Application
 
-This is an online quiz platform which allows the teachers to create quizes and students to attempt them at their comfort zones.  
+It is an online quiz platform that allows teachers to create quizzes and let students try them in their comfort zones.
 
 ***
-### Functionality 
+### Introduction 
+we develop a quiz application using Python Django. Let’s see what all functionalities we developing in this project (for two roles – Teacher and Student).
+
+####Student:
+
+*Sign up (register)
+*Login
+*Quiz page (with timer)
+*Result page (with score, time taken, percentage score, total questions, correct answers, wrong answers)
+
+####Teacher:
+
+*Login
+*Sign up
+*Add Question
+*Quiz Page
+*Result Page
+
   #### Teacher
-  * Create an account as a teacher
-  * After login can view a dashboard with all the available quizes
-  * Add new questions to the existing quize
-  * Create new quizes and add questions
-  * Review created quizes
-  * Delete quizes
+  1 Create an account as a teacher
+  2 After login can view a dashboard with all the available quizes
+  3 Add new questions to the existing quize
+  4 Create new quizes and add questions
+  5 Review created quizes
+  6 Delete quizes
   #### Student
-  * Create an account as a student
-  * After login can view a dashboard with all the available quizes
-  * Attempt any quiz
-  * View grades of all the attempted quizes
+  1 Create an account as a student
+  2 After login can view a dashboard with all the available quizes
+  3 Attempt any quiz
+  4 View grades of all the attempted quizes
  *** 
 ### How to Run the Project 
   * Install Python 
