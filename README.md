@@ -87,5 +87,21 @@ The __str__() method returns a string representation of any object of QuesModel.
 In Django when we use Sqlite3 database, we don’t have to write table definitions we just have to write models and after that, we have to run.
 
  * Now you can view the project using the below URL
-   http://127.0.0.1:8000/
    
+ ```
+http://127.0.0.1:8000/
+```
+***
+### Further Work
+ * Include an admin panel
+ * Let teachers view the grades of students
+ * Let students view the correct answers 
+
+***
+
+#### Teacher Dashboard
+![landing](/Quiz screenshots/quiz-Teacher.png "Landing Page")
+#### Student Dashboard
+![landing](/Quiz screenshots/quiz-Student.png "Landing Page")
+#### View Grades
+![landing](/Quiz screenshots/quiz-Result page.png "Landing Page")  
